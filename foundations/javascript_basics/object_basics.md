@@ -208,3 +208,4 @@ The following questions are an opportunity to reflect on key topics in this less
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
 - Learn about the `arguments` object on this [page about function parameters](https://www.w3schools.com/js/js_function_parameters.asp).
+- [This article](https://www.scaler.com/topics/args-javascript/) tells more about the `arguments` object.
